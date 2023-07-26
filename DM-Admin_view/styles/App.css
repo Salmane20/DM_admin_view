@@ -1,0 +1,12 @@
+._app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url('./Images/ui.png');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  
